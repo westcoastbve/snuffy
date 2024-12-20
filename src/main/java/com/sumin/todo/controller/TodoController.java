@@ -29,7 +29,7 @@ public class TodoController {
 	
 	@PostConstruct
 	void init() {
-		log.info("실행되는지 눈으로 확인");
+		log.info("실행되는지 눈으로 확인 aphfdpahfpdaphfd");
 		
 		TodoVO todo = null;
 		for(int i=1; i<=4; i++) {
